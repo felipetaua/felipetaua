@@ -6,16 +6,11 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipetaua&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-
+<br> <br>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipetaua&layout=donut&langs_count=25&theme=prussian"/>
   
-</div>
-
-<div align="center">
-<br><p align="centre"><b>Contador de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{felipetaua}/count.svg" /></p> 
 <br>
-</div>
+
 
 ##  &nbsp;Caixa de Ferramentas 
 <div align="center"> 
@@ -24,6 +19,11 @@
   <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;
     <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain.svg" alt="python" width="50" height="50"/>
 </div>
+
+<br> <br>
+
+![](https://komarev.com/ghpvc/?username=felipetaua&color=478CCF&style=for-the-badge&label=Curiosos&abbreviated=true)
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=478CCF&height=120&section=footer"/>
