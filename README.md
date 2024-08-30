@@ -24,7 +24,7 @@
 
 <br> <br>
 
-![](https://komarev.com/ghpvc/?username=felipetaua&color=478CCF&style=for-the-badge&label=Curiosos&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=felipetaua&color=478CCF&style=for-the-badge&label=Bacanudos&abbreviated=true)
 
 
 
