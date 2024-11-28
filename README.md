@@ -8,7 +8,7 @@
 <!--grafico--->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipetaua&theme=react-dark)]([https://github.com/Ashutosh00710/github-readme-activity-graph])
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipetaua)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipetaua&theme=react-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipetaua&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   
