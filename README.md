@@ -2,7 +2,7 @@
 
 <div align="center"> 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6699ff&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+My+name+is+Tauã+Felipe;I´m+from+Brazil;I´m+front-end+and+back-end+student;+Welcome!+:%29)](https://git.io/typing-svg);
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6699ff&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+My+name+is+Tauã+Felipe;I´m+from+Brazil;I´m+front-end+and+back-end+student;+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!--  Skills -->
 <div align="center" >
