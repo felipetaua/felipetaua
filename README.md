@@ -24,6 +24,7 @@
     </a>
 </div>
 <!-- /Skills -->
+<br>
 
 
 <!--grafico--->
