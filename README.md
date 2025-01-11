@@ -30,7 +30,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="java logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
   <img width="8" />
@@ -49,13 +49,13 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipetaua&theme=react-dark)]([https://github.com/Ashutosh00710/github-readme-activity-graph])
 
 
-<div align="left">
-
+<!-- status -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipetaua&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
 
+<!-- linguagens de prog -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipetaua&theme=prussian)](https://github.com/felipetaua/github-readme-stats)
 
-<div/>
+
 
 <div align="center">
 
