@@ -7,7 +7,6 @@ a<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=47
 <p align="center">Conclui ensino médio técnico em Análise e Desenvolvimento de Sistemas. Atualmente estou cursando Técnico de Informática para Internet e pretendo ser engenheiro de software.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
-.
 
 #
 
