@@ -8,7 +8,6 @@ a<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=47
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 
-.
 
 #
 
