@@ -42,10 +42,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo"  />
 </div>
-<br/>
-
-#
-
+<br>
 
 <!--grafico--->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipetaua&theme=react-dark)]([https://github.com/Ashutosh00710/github-readme-activity-graph])
@@ -56,6 +53,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetaua&theme=prussian&layout=compact"/>
 </div>
 
+<br>
+<br>
 <br>
 
 <div align="center">
