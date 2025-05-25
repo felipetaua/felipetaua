@@ -51,17 +51,16 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipetaua&theme=react-dark)]([https://github.com/Ashutosh00710/github-readme-activity-graph])
 
 
-<!-- status -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipetaua&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipetaua&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetaua&theme=prussian&layout=compact"/>
+</div>
 
-<!-- linguagens de prog -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipetaua&theme=prussian)](https://github.com/felipetaua/github-readme-stats)
-
-
+<br>
 
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=felipetaua&color=478CCF&style=for-the-badge&label=Bacanudos&abbreviated=true)
+  
+  ![](https://komarev.com/ghpvc/?username=felipetaua&color=478CCF&style=for-the-badge&label=Bacanudos&abbreviated=true)
 
 <div/>
 
