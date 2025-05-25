@@ -4,9 +4,13 @@
 
 #
 
-<p align="center">Conclui ensino médio técnico em Análise e Desenvolvimento de Sistemas. Atualmente estou cursando Técnico de Informática para Internet e pretendo ser engenheiro de software.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="left">
+Sou estudante de <span style="color:blue;"><strong>Análise e Desenvolvimento de Sistemas</strong></span> e <span style="color:blue;"><strong>Informática para Internet</strong></span>, atualmente cursando <span style="color:blue;"><strong>Engenharia de Software</strong></span>. Apaixonado por transformar ideias em <span style="color:blue;"><strong>soluções digitais</strong></span> bem estruturadas, funcionais e criativas, estou sempre em busca de novos desafios que me permitam crescer e aprimorar minhas habilidades.
+</p>
 
+<p align="left">
+Acredito no poder do <span style="color:blue;"><strong>aprendizado contínuo</strong></span>, da <span style="color:blue;"><strong>colaboração</strong></span> e das <span style="color:blue;"><strong>boas práticas</strong></span> para gerar impacto real através da tecnologia. Meu objetivo é construir uma carreira sólida como <span style="color:blue;"><strong>engenheiro de software</strong></span>, contribuindo com projetos que façam a diferença.
+</p>
 
 
 #
