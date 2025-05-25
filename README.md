@@ -49,8 +49,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 
 <div align="center">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipetaua&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetaua&theme=prussian&layout=compact"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipetaua&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
 </div>
 
 <br>
