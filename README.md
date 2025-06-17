@@ -4,13 +4,14 @@
 
 #
 
+![Análise e Desenvolvimento de Sistemas](https://img.shields.io/badge/Formação-Análise%20e%20Desenvolvimento%20de%20Sistemas-32608d?style=for-the-badge&logo=csharp&logoColor=white)
+![Informática para Internet](https://img.shields.io/badge/Formação-Informática%20para%20Internet-32608d?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Engenharia de Software](https://img.shields.io/badge/Cursando-Engenharia%20de%20Software-blue?style=for-the-badge&logo=githubactions&logoColor=white)
+
 <p align="left">
 Conclui o ensino médio técnico em <span style="color: blue;"><strong style="color: #32608d;">Análise e Desenvolvimento de Sistemas</strong></span> e sou formado em Técnico de <span style="color:blue;"><strong>Informática para Internet</strong></span>, atualmente cursando <span style="color:blue;"><strong>Engenharia de Software</strong></span>. Apaixonado por transformar ideias em <span style="color:blue;"><strong>soluções digitais</strong></span> bem estruturadas, funcionais e criativas, estou sempre em busca de novos desafios que me permitam crescer e aprimorar minhas habilidades.
 </p>
 
-![Análise e Desenvolvimento de Sistemas](https://img.shields.io/badge/Formação-Análise%20e%20Desenvolvimento%20de%20Sistemas-blue)
-![Informática para Internet](https://img.shields.io/badge/Formação-Informática%20para%20Internet-blue)
-![Engenharia de Software](https://img.shields.io/badge/Cursando-Engenharia%20de%20Software-blue)
 <p align="left">
 Acredito no poder do <span style="color:blue;"><strong>aprendizado contínuo</strong></span>, da <span style="color:blue;"><strong>colaboração</strong></span> e das <span style="color:blue;"><strong>boas práticas</strong></span> para gerar impacto real através da tecnologia. Meu objetivo é construir uma carreira sólida como <span style="color:blue;"><strong>engenheiro de software</strong></span>, contribuindo com projetos que façam a diferença.
 </p>
