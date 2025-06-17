@@ -5,7 +5,7 @@
 #
 
 <p align="left">
-Sou estudante de <span style="color:blue;"><strong>Análise e Desenvolvimento de Sistemas</strong></span> e <span style="color:blue;"><strong>Informática para Internet</strong></span>, atualmente cursando <span style="color:blue;"><strong>Engenharia de Software</strong></span>. Apaixonado por transformar ideias em <span style="color:blue;"><strong>soluções digitais</strong></span> bem estruturadas, funcionais e criativas, estou sempre em busca de novos desafios que me permitam crescer e aprimorar minhas habilidades.
+Conclui o ensino médio técnico em <span style="color:blue;"><strong>Análise e Desenvolvimento de Sistemas</strong></span> e sou formado em Técnico de <span style="color:blue;"><strong>Informática para Internet</strong></span>, atualmente cursando <span style="color:blue;"><strong>Engenharia de Software</strong></span>. Apaixonado por transformar ideias em <span style="color:blue;"><strong>soluções digitais</strong></span> bem estruturadas, funcionais e criativas, estou sempre em busca de novos desafios que me permitam crescer e aprimorar minhas habilidades.
 </p>
 
 <p align="left">
