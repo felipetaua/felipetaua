@@ -9,7 +9,7 @@
 ![Engenharia de Software](https://img.shields.io/badge/Cursando-Engenharia%20de%20Software-blue?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <p align="left">
-Conclui o ensino médio técnico em <span style="color: blue;"><strong style="color: #32608d;">ADS</strong></span> e sou formado em <strong>Técnico de Informática para Internet</strong>, atualmente cursando <span style="color:blue;"><strong>Engenharia de Software</strong></span>. Apaixonado por transformar ideias em <span style="color:blue;"><strong>soluções digitais</strong></span> bem estruturadas, funcionais e criativas, estou sempre em busca de novos desafios que me permitam crescer e aprimorar minhas habilidades.
+Conclui o ensino médio técnico em <span style="color: blue;"><strong style="color: #32608d;">ADS</strong></span> e sou formado em <strong>Técnico de Informática para Internet</strong>, atualmente cursando ensino superior de <strong>Engenharia de Software</strong>. Apaixonado por transformar ideias em <strong>soluções digitais</strong> bem estruturadas, funcionais e criativas, estou sempre em busca de novos desafios que me permitam crescer e aprimorar minhas habilidades.
 </p>
 
 <p align="left">
