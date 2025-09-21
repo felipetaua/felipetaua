@@ -31,7 +31,7 @@ Acredito no poder do <span style="color:blue;"><strong>aprendizado contínuo</st
 
 <div align="left">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,flutter,mysql,postgres,firebase&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,react,tailwind,flutter,mysql,postgres,firebase&perline=6)](https://skillicons.dev)
   
 </div>
 <br>
