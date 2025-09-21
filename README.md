@@ -19,7 +19,7 @@ Acredito no poder do <span style="color:blue;"><strong>aprendizado contínuo</st
 
 #
 
-<img align="right" alt="" height="190px" src="./gato.gif">
+<img align="right" alt="" height="270px" src="./gato.gif">
 
 <h3 align="left">Connect with me!</h3>
 
