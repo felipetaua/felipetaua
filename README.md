@@ -30,6 +30,9 @@ Acredito no poder do <span style="color:blue;"><strong>aprendizado contínuo</st
 <h3 align="left">My Stack ~</h3>
 
 <div align="left">
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind)](https://skillicons.dev)
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
