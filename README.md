@@ -3,10 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6699ff&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+My+name+is+Tauã+Felipe;I´m+from+Brazil;I´m+front-end+and+back-end+student;+Welcome!+:%29)](https://git.io/typing-svg)
 
 #
-
+<!--
 ![Análise e Desenvolvimento de Sistemas](https://img.shields.io/badge/Formação-Análise%20e%20Desenvolvimento%20de%20Sistemas-32608d?style=for-the-badge&logo=csharp&logoColor=white)
 ![Informática para Internet](https://img.shields.io/badge/Formação-Informática%20para%20Internet-32608d?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Engenharia de Software](https://img.shields.io/badge/Cursando-Engenharia%20de%20Software-blue?style=for-the-badge&logo=githubactions&logoColor=white)
+-->
 
 <p align="left">
 Conclui o Ensino Médio Técnico em <span style="color: blue;"><strong style="color: #32608d;">ADS</strong></span> e sou formado em <strong>Técnico de Informática para Internet</strong>, atualmente cursando ensino superior de <strong>Engenharia de Software</strong>. Apaixonado por transformar ideias em <strong>soluções digitais</strong> bem estruturadas, funcionais e criativas, estou sempre em busca de novos desafios que me permitam crescer e aprimorar minhas habilidades.
