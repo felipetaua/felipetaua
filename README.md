@@ -10,7 +10,7 @@
 -->
 
 <p align="left">
-Ensino Médio Técnico em <span style="color: blue;"><strong style="color: #32608d;">ADS</strong></span> e sou formado em <strong>Técnico de Informática para Internet</strong>, atualmente cursando ensino superior de <strong>Engenharia de Software</strong>. Apaixonado por transformar ideias em <strong>soluções digitais</strong> bem estruturadas, funcionais e criativas, estou sempre em busca de novos desafios que me permitam crescer e aprimorar minhas habilidades, com projetos realmente relevantes para o mercado de trabalho.
+Ensino Médio Técnico em <span style="color: blue;"><strong style="color: #32608d;">ADS</strong></span> e sou formado em <strong>Técnico de Informática para Internet</strong>, atualmente cursando ensino superior de <strong>Engenharia de Software</strong>. Crio projetos com diferenciais e criativos, estou sempre em busca de novos desafios que me permitam crescer e aprimorar minhas habilidades, com projetos realmente relevantes para o mercado de trabalho.
 </p>
 
 <p align="left">
