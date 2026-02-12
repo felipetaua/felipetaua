@@ -10,7 +10,9 @@
 -->
 
 <p align="left">
-Ensino Médio Técnico em <span style="color: blue;"><strong style="color: #32608d;">ADS</strong></span> e sou formado em <strong>Técnico de Informática para Internet</strong>, atualmente cursando ensino superior de <strong>Engenharia de Software</strong>. Crio projetos com diferenciais e criativos, estou sempre em busca de novos desafios que me permitam crescer e aprimorar minhas habilidades, com projetos realmente relevantes para o mercado de trabalho.
+  Desenvolvedor Front-end e Mobile, Já palestrei em evento privado para o Senac PR, estudante de Engenharia de Software.
+
+  Em meus projetos sempre simulo situações do reais do mercado de trabalho, procuro minha primeira oportunidade como desenvolvedor Front-end ou Mobile, tenho projetos profissionais como   a criação de um aplicativo de controle financeiro o Finan, onde estou em constante aprendizado sempre em busca de novos desafios que me permitam crescer e aprimorar minhas               habilidades, com projetos realmente relevantes para o mercado de trabalho. 
 </p>
 
 <p align="left">
