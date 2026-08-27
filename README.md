@@ -27,7 +27,9 @@ Acredito no poder do <span style="color:blue;"><strong>aprendizado contínuo</st
 <h3 align="left">Connect with me!</h3>
 
 <a href="https://www.linkedin.com/in/felipetaua" target="_blank"><img alt="Logo Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+&nbsp;&nbsp;
 <a href="https://t.me/felipetaua" target="_blank"><img alt="Telegram Logo" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+&nbsp;&nbsp;
 <a href="mailto:taua.felipee@live.com" target="_blank"><img alt="Gmail Logo" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <h3 align="left">My Stack ~</h3>
