@@ -38,10 +38,11 @@
 </div>
 <br>
 
+
+<!-- SECTION 1 - Footer pagina --> 
 <div align="center">
   
   ![](https://komarev.com/ghpvc/?username=felipetaua&color=478CCF&style=for-the-badge&label=Bacanudos&abbreviated=true)
-  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=478CCF&height=120&section=footer"/>
 <div/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=478CCF&height=120&section=footer"/>
