@@ -1,4 +1,3 @@
-<img width="500" height="500" alt="download__4_-removebg-preview" src="https://github.com/user-attachments/assets/e260118f-9e52-4366-be12-47df8750d04c" />
 <!-- SECTION 1 - Bannner personalizado e escrita de informações --> 
 <div align="center">
   <img width="1000" height="250" alt="Banners Github Readme" src="https://github.com/user-attachments/assets/f9cd77f6-b784-4662-829a-2e5c68bec8e4" />
