@@ -41,19 +41,6 @@ Acredito no poder do <span style="color:blue;"><strong>aprendizado contínuo</st
 </div>
 <br>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipetaua&theme=react-dark)]([https://github.com/Ashutosh00710/github-readme-activity-graph])
-
-
-<!--
-<div align="center">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetaua&theme=prussian&layout=compact"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipetaua&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-</div>
-
-<br>
-<br>
-
 <div align="center">
   
   ![](https://komarev.com/ghpvc/?username=felipetaua&color=478CCF&style=for-the-badge&label=Bacanudos&abbreviated=true)
