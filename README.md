@@ -3,18 +3,19 @@
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=478CCF&height=120&section=header"/> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#2899ff&size=35&center=true&vCenter=true&width=1000&lines=I'm+Tauã+Felipe,+Software+Engineer;App+and+Web+Developer;Based+in+Brazil;Front-end+and+Back-end+Student;Welcome+to+my+workspace!+:%29)](https://git.io/typing-svg)
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2899FF&center=true&random=true&width=435&lines=Welcome+to+my+workspace!;Check+out+my+projects+and+creations.)](https://git.io/typing-svg)
 
+</div>
 
 <h3 align="left">About Me</h3>
-
  💼 **Atualmente:** Atuo com infraestrutura, redes e suporte de sistemas ERP na Fecularia Lopes, e sou estudante de Engenharia de Software.
  🎯 **Objetivo:** Em busca da minha primeira oportunidade oficial como desenvolvedor (Front-end/Mobile).
  ⚙️ **Foco Técnico:** Desenvolvimento web (PHP, Laravel, React), automação de fluxos (n8n) e testes com IA generativa.
  🚀 **Projetos:** Criador do aplicativo de controle financeiro **Finan**, focado em simular desafios e cenários reais do mercado de trabalho.
  🎤 **Destaque:** Palestrante convidado no Senac PR (Painel Encontro de Saberes).
  🎨 **Além do código:** Nas horas vagas, divido meu tempo entre treinos de força, jogos de tabuleiro e ilustrações digitais.
-
 <br>
 
 <img align="right" alt="" height="270px" src="./gato.gif">
