@@ -1,4 +1,4 @@
-<img width="100%" height="350px" alt="Banner Agência de Marketing Marca No Topo Preto e Roxo" src="https://github.com/user-attachments/assets/41bf95a6-c5b2-463a-becd-83cadb572dc1" />
+<img width="100%" height="250px" alt="Banner Agência de Marketing Marca No Topo Preto e Roxo" src="https://github.com/user-attachments/assets/41bf95a6-c5b2-463a-becd-83cadb572dc1" />
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=478CCF&height=120&section=header"/> -->
 
