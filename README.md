@@ -1,3 +1,5 @@
+<img width="100%" height="auto" alt="Banner Agência de Marketing Marca No Topo Preto e Roxo" src="https://github.com/user-attachments/assets/41bf95a6-c5b2-463a-becd-83cadb572dc1" />
+
 <img width="2560" height="1440" alt="banner-felipetaua" src="https://github.com/user-attachments/assets/e8af1626-a25c-474c-b5f0-af52867928e7" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=478CCF&height=120&section=header"/>
