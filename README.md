@@ -39,7 +39,7 @@
 <br>
 
 
-<!-- SECTION 1 - Footer pagina --> 
+<!-- SECTION 4 - Footer pagina --> 
 <div align="center">
   
   ![](https://komarev.com/ghpvc/?username=felipetaua&color=478CCF&style=for-the-badge&label=Bacanudos&abbreviated=true)
