@@ -21,15 +21,15 @@
   </tr>  
   <tr>  
     <td valign="middle">  
-      <h3>Hey there! I’m Karthick 👋</h3>  
+      <h3>Full-Stack Developer (React & PHP/Laravel) | Software Engineering 👋</h3>  
     </td>  
   </tr>  
   <tr>  
     <td valign="middle">  
       <br>  
-      <b>Full-Stack Developer (React & Python/Django)</b> | Class of 2026<br><br>  
-      I am based in Trivandrum and deeply passionate about building end-to-end web applications. I love bridging the gap between robust, scalable backend architectures and highly interactive, minimalist user interfaces.<br><br>  
-      Currently, I'm focusing my energy on building <b>FileGhost</b> (a privacy-centric file-sharing platform) and <b>Updrop</b> (automation tools). My daily technical playground revolves around <b>React, Python, Django, and Tailwind CSS</b>. Whether it's designing secure RESTful APIs or crafting seamless frontend experiences, I enjoy turning complex problems into elegant web solutions.<br><br>  
+      <b>Full-Stack Developer (React & PHP/Laravel)</b> | Software Engineering<br><br>  
+      Based in Paraná, Brazil, I am passionate about building end-to-end web applications. I love connecting robust, scalable backend architectures with minimalist, highly interactive user interfaces. Currently, I am focusing my efforts on developing Finan (a financial management app) and projects like ConexãoRH. 
+        My technical work revolves around React, PHP, Laravel, and workflow automation using n8n. Whether structuring relational databases, exploring generative AI integrations, or crafting fluid frontend experiences, I enjoy transforming real-world market scenarios into elegant, functional web solutions.
     </td>  
   </tr>  
 </table>  
