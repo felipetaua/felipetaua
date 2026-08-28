@@ -1,14 +1,12 @@
-<img width="1000" height="250" alt="Banners Github Readme" src="https://github.com/user-attachments/assets/f9cd77f6-b784-4662-829a-2e5c68bec8e4" />
-
-
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=478CCF&height=120&section=header"/> -->
-
+<!-- SECTION 1 - Bannner personalizado e escrita de informações --> 
 <div align="center">
+  <img width="1000" height="250" alt="Banners Github Readme" src="https://github.com/user-attachments/assets/f9cd77f6-b784-4662-829a-2e5c68bec8e4" />
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2899FF&center=true&random=true&width=435&lines=Welcome+to+my+workspace!;Check+out+my+projects+and+creations.)](https://git.io/typing-svg)
-
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2899FF&center=true&random=true&width=435&lines=Welcome+to+my+workspace!;Check+out+my+projects+and+creations.)](https://git.io/typing-svg)
+ <!-- Link de personalização de escrita: https://readme-typing-svg.demolab.com/demo/?color=2899FF&random=true&lines=Welcome+to+my+workspace!;Check+out+my+projects+and+creations. -->
 </div>
 
+<!-- SECTION 2 - Sobre min --> 
 <h3 align="left">About Me</h3>
  💼 **Atualmente:** Atuo com infraestrutura, redes e suporte de sistemas ERP na Fecularia Lopes, e sou estudante de Engenharia de Software.
  🎯 **Objetivo:** Em busca da minha primeira oportunidade oficial como desenvolvedor (Front-end/Mobile).
