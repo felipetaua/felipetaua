@@ -1,4 +1,5 @@
-<img width="1000" height="250" alt="Design sem nome" src="https://github.com/user-attachments/assets/f8204b23-2f31-4cc3-b2d9-bdb9e3aba2f6" />
+<img width="1000" height="250" alt="Banners Github Readme" src="https://github.com/user-attachments/assets/f9cd77f6-b784-4662-829a-2e5c68bec8e4" />
+
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=478CCF&height=120&section=header"/> -->
 
