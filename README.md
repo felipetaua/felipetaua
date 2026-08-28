@@ -17,6 +17,13 @@
       <a href="mailto:karthick.aidev@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>  
       &nbsp;  
       <a href="https://drive.google.com/file/d/1W8HDDCPTHcm6hw8zbzDeKoxIxoKsz_VN/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSA5aC00VjNIOXY2SDVsNyA3IDctN3pNNSAxOHYyaDE0di0ySDV6Ii8+PC9zdmc+&logoColor=white"></a>  
+      <a href="https://www.linkedin.com/in/felipetaua" target="_blank"><img alt="Logo Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+&nbsp;&nbsp;
+      <a href="https://t.me/felipetaua" target="_blank"><img alt="Telegram Logo" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+&nbsp;&nbsp;
+      <a href="mailto:taua.felipee@live.com" target="_blank"><img alt="Gmail Logo" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+&nbsp;&nbsp;
+      <a href="[mailto:taua.felipee@live.com](https://www.youtube.com/@felipetaua.)" target="_blank"><img alt="Youtube Logo" src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     </td>  
   </tr>  
   <tr>  
@@ -28,8 +35,8 @@
     <td valign="middle">  
       <br>  
       <b>Full-Stack Developer (React & PHP/Laravel)</b> | Software Engineering<br><br>  
-      Based in Paraná, Brazil, I am passionate about building end-to-end web applications. I love connecting robust, scalable backend architectures with minimalist, highly interactive user interfaces. Currently, I am focusing my efforts on developing Finan (a financial management app) and projects like ConexãoRH. 
-        My technical work revolves around React, PHP, Laravel, and workflow automation using n8n. Whether structuring relational databases, exploring generative AI integrations, or crafting fluid frontend experiences, I enjoy transforming real-world market scenarios into elegant, functional web solutions.
+      Busco por criar aplicações web de ponta a ponta. Adoro conectar arquiteturas de backend robustas e escaláveis ​​a interfaces de usuário minimalistas e altamente interativas.
+      Atualmente, concentro meus esforços no desenvolvimento do Finan (um aplicativo de controle financeiro) e em projetos como o ConexãoRH. Meu dia a dia técnico gira em torno de React, PHP, Laravel e automação de fluxos com n8n. Seja estruturando bancos de dados relacionais, explorando integrações com IA generativa ou criando experiências de frontend fluidas, gosto de transformar cenários reais do mercado em soluções web elegantes e funcionais.
     </td>  
   </tr>  
 </table>  
