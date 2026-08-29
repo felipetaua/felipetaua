@@ -61,10 +61,13 @@
 <div align="center">
   <h3 align="center">My Stack ~</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,python,react,tailwind,flutter,mysql,postgres,firebase)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,python,react,tailwind,flutter,mysql,postgres,firebase)](https://skillicons.dev)
 </div>
 <br>
 
+<!--
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,python,react,tailwind,flutter,mysql,postgres,firebase)](https://skillicons.dev)
+-->
 
 
 <!-- SECTION 4 - Footer pagina --> 
