@@ -59,14 +59,12 @@
 <a href="mailto:taua.felipee@live.com" target="_blank"><img alt="Gmail Logo" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 &nbsp;&nbsp; -->
 
-<h3 align="left">My Stack ~</h3>
+<div align="center">
+  <h3 align="center">My Stack ~</h3>
 
-<!-- <div align="left">
-  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,python,react,tailwind,flutter,mysql,postgres,firebase&perline=6)](https://skillicons.dev)
-  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,python,react,tailwind,flutter,mysql,postgres,firebase)](https://skillicons.dev)
 </div>
-<br> -->
+<br>
 
 
 
