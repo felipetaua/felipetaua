@@ -6,7 +6,6 @@
  <!-- Link de personalização de escrita: https://readme-typing-svg.demolab.com/demo/?color=2899FF&random=true&lines=Welcome+to+my+workspace!;Check+out+my+projects+and+creations. -->
 </div>
 
-<br>  
 <table>  
   <tr>  
     <td align="center" valign="middle">  
