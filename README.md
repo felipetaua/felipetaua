@@ -9,7 +9,7 @@
 <table>  
   <tr>  
     <td align="center" valign="middle">  
-      <a href="https://updrop.in"><img src="https://img.shields.io/badge/Updrop.in-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>  
+      <a href="https://felipetaua.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portifolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>  
       &nbsp;
       <a href="https://www.linkedin.com/in/karthick-aidev/"></a>  
       &nbsp;  
@@ -59,7 +59,7 @@
 &nbsp;&nbsp; -->
 
 <div align="center">
-  <h3 align="center">My Stack ~</h3>
+  <h3 align="center">My Stack</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=php,python,react,tailwind,flutter,mysql,postgres,firebase)](https://skillicons.dev)
 </div>
