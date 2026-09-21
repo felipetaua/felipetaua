@@ -26,7 +26,6 @@
   <tr>  
     <td valign="middle">  
       <br>  
-      <b>Full-Stack Developer (React & PHP/Laravel)</b> | Software Engineering<br><br>  
       Busco por criar aplicações web de ponta a ponta. Adoro conectar arquiteturas de backend robustas e escaláveis ​​a interfaces de usuário minimalistas e altamente interativas.
       Atualmente, concentro meus esforços no desenvolvimento do Finan (um aplicativo de controle financeiro) e em projetos como o ConexãoRH. Meu dia a dia técnico gira em torno de React, PHP, Laravel e automação de fluxos com n8n. Seja estruturando bancos de dados relacionais, explorando integrações com IA generativa ou criando experiências de frontend fluidas, gosto de transformar cenários reais do mercado em soluções web elegantes e funcionais.
     </td>  
