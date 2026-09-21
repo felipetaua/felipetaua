@@ -1,6 +1,6 @@
 <!-- SECTION 1 - Bannner personalizado e escrita de informações --> 
 <div align="center">
-  <img width="1000" height="250" alt="Banners Github Readme" src="https://github.com/user-attachments/assets/f9cd77f6-b784-4662-829a-2e5c68bec8e4" />
+  <img width="1000" height="250" alt="Banners Github Readme" src="https://github.com/user-attachments/assets/f734a09b-cfaa-4bcd-83a7-5f9cdca642a1" />
  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2899FF&center=true&random=true&width=435&lines=Welcome+to+my+workspace!;Check+out+my+projects+and+creations.)](https://git.io/typing-svg)
  <!-- Link de personalização de escrita: https://readme-typing-svg.demolab.com/demo/?color=2899FF&random=true&lines=Welcome+to+my+workspace!;Check+out+my+projects+and+creations. -->
