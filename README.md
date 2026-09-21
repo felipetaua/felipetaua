@@ -22,10 +22,6 @@
       <a href="https://www.youtube.com/@felipetaua." target="_blank"><img alt="Youtube Logo" src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     </td>  
   </tr>  
-  <tr>  
-    <td valign="middle">  
-      <h3>Full-Stack Developer (React & PHP/Laravel) | Software Engineering 👋</h3>  
-    </td>  
   </tr>  
   <tr>  
     <td valign="middle">  
